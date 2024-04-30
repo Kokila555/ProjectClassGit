@@ -6,7 +6,12 @@ public class SampleGit {
 
 	@Test
 	private void test() {
-		// TODO Auto-generated method stub
+		System.out.println("test1");
+
+	}
+	@Test
+	private void test2() {
+		System.out.println("test2");
 
 	}
 }
